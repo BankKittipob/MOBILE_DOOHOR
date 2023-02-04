@@ -1,5 +1,8 @@
 # DooHor
 
+เอกสาร Project 
+https://docs.google.com/document/d/1UnCl3t8Cu7PyKHzPkTU2gNLuwGZvyEGdrsxWxb-G-6o/edit?usp=sharing
+
 เพิ่มข้อมูล ใน node_modules ครับ เป็นการ add button เพิ่มในตาราง
  1. ไปที่ไฟล์ โปรเจ็ค ไปยัง node_modules\react-native-datatable-component\src
  2. copy ไฟล์ใน โฟลเด้อ edit ก้อปวางลงไปทั้งหมดครับ
